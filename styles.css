@@ -1,18 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
 
-body{
+body  {
   font-family: 'Merriweather', serif;
   margin: 0px;
 }
 
-hr{
+hr  {
   margin: 1rem 0rem;
 }
 
-.small {
+.small  {
   font-size: 0.7rem;
 }
 
+.container-fluid  {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
+.container-center {
+  margin: auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  max-width: 500px;
+}
 
 
