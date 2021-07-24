@@ -115,3 +115,21 @@ hr {
 .ow {
   background-color: #ecfdf5;
 }
+
+.footer {
+  background-color: #6ee7b7;
+  color: #f9fafb;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  padding: 1rem 1rem 0.3rem 1rem;
+}
+
+.footer li {
+  display: inline-block;
+  padding: 0rem 0.5rem;
+}
+
+.footer ul {
+  list-style: none;
+  text-align: center;
+}
