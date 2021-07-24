@@ -47,3 +47,16 @@ hr {
   border: 1px solid #6ee7b7;
   padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
+
+.hl {
+  padding-bottom: 1rem;
+}
+
+.unordered {
+  list-style: none;
+}
+
+.inline li {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
