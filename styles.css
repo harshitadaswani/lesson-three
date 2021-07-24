@@ -64,6 +64,8 @@ hr {
 .navi {
   background-color: #6ee7b7;
   color: #f9fafb;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
 }
 
 .navi ul {
@@ -100,4 +102,16 @@ hr {
   margin: auto;
   display: block;
   max-width: 400px;
+}
+
+.section {
+  padding: 1rem;
+}
+
+.section h2 {
+  text-align: center;
+}
+
+.ow {
+  background-color: #ecfdf5;
 }
